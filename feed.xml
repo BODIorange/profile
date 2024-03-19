@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BodiOrange</title>
+    <link href="https://BODIorange.github.io/profile/feed.xml" rel="self" />
+    <link href="https://BODIorange.github.io/profile" />
+    <updated>2024-03-19T21:12:38+08:00</updated>
+    <author>
+        <name>Bodi</name>
+    </author>
+    <id>https://BODIorange.github.io/profile</id>
+
+    <entry>
+        <title>CurryParty0319</title>
+        <author>
+            <name>Bodi</name>
+        </author>
+        <link href="https://BODIorange.github.io/profile/curryparty0319.html"/>
+        <id>https://BODIorange.github.io/profile/curryparty0319.html</id>
+
+        <updated>2024-03-19T21:12:38+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

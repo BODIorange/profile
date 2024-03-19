@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "BodiOrange",
+    "description": "",
+    "home_page_url": "https://BODIorange.github.io/profile",
+    "feed_url": "https://BODIorange.github.io/profile/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bodi"
+    },
+    "items": [
+        {
+            "id": "https://BODIorange.github.io/profile/curryparty0319.html",
+            "url": "https://BODIorange.github.io/profile/curryparty0319.html",
+            "title": "CurryParty0319",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Bodi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-19T21:12:38+08:00",
+            "date_modified": "2024-03-19T21:12:38+08:00"
+        }
+    ]
+}
