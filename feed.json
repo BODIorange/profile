@@ -5,22 +5,38 @@
     "home_page_url": "https://BODIorange.github.io/profile",
     "feed_url": "https://BODIorange.github.io/profile/feed.json",
     "user_comment": "",
+    "icon": "https://BODIorange.github.io/profile/media/website/IMG_1307.PNG",
     "author": {
         "name": "Bodi"
     },
     "items": [
         {
-            "id": "https://BODIorange.github.io/profile/curryparty0319.html",
-            "url": "https://BODIorange.github.io/profile/curryparty0319.html",
-            "title": "CurryParty0319",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "id": "https://BODIorange.github.io/profile/bodi.html",
+            "url": "https://BODIorange.github.io/profile/bodi.html",
+            "title": "Bodi",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gqLkoSBt7ho?si=ZOLDHCPcIKdEk-p-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
             "author": {
                 "name": "Bodi"
             },
             "tags": [
             ],
-            "date_published": "2024-03-19T21:12:38+08:00",
-            "date_modified": "2024-03-19T21:12:38+08:00"
+            "date_published": "2024-03-20T18:11:52+08:00",
+            "date_modified": "2024-03-20T18:15:44+08:00"
+        },
+        {
+            "id": "https://BODIorange.github.io/profile/ri-chang.html",
+            "url": "https://BODIorange.github.io/profile/ri-chang.html",
+            "title": "日常 Daily",
+            "summary": "陳苡瑄 何怡潔 2023 | 動力裝置 | 壓克力板、步進馬達、木材 在這座地瓜島上，住著一群各有想法的人。這群人為顏色爭論不休、為分歧互相衝撞，但他們仍在無形間牽絆著彼此。 碎片的上下移動，看似毫不相干，可能彼此碰撞，可能搖擺不定，但透過光的照射，創造了許多閃耀而獨特的瞬間，碎片的倒影不規則的發散、聚合又發散，隱約拼湊出地瓜島的輪廓。 這時人們才發現，分分合合或許只是，日常的流動吧！ 如果原本就是碎的 當陽光灑落 那不就五彩繽紛了？",
+            "content_html": "<p class=\"align-right\"> </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7465.JPEG\" data-size=\"5480x3653\"><img loading=\"lazy\" src=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7465-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7475.JPEG\" data-size=\"5480x3653\"><img loading=\"lazy\" src=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7475-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7508.JPEG\" data-size=\"5480x3653\"><img loading=\"lazy\" src=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7508-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7509.JPEG\" data-size=\"5480x3653\"><img loading=\"lazy\" src=\"https://BODIorange.github.io/profile/media/posts/5/gallery/GRC_7509-thumbnail.JPEG\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<p>陳苡瑄 何怡潔</p>\n<p>2023 | 動力裝置 | 壓克力板、步進馬達、木材</p>\n<p class=\"dropcap\">在這座地瓜島上，住著一群各有想法的人。這群人為顏色爭論不休、為分歧互相衝撞，但他們仍在無形間牽絆著彼此。<br><br>碎片的上下移動，看似毫不相干，可能彼此碰撞，可能搖擺不定，但透過光的照射，創造了許多閃耀而獨特的瞬間，碎片的倒影不規則的發散、聚合又發散，隱約拼湊出地瓜島的輪廓。<br><br>這時人們才發現，分分合合或許只是，日常的流動吧！<br><br>如果原本就是碎的<br>當陽光灑落<br>那不就五彩繽紛了？</p>",
+            "image": "https://BODIorange.github.io/profile/media/posts/5/Ri-Chang-01-2.jpeg",
+            "author": {
+                "name": "Bodi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-20T16:56:19+08:00",
+            "date_modified": "2024-05-09T21:12:38+08:00"
         }
     ]
 }
